@@ -10,19 +10,19 @@ const Footer = () => (
         <ButtonGroup variant="ghost">
             <IconButton
                 as="a"
-                href="https://www.linkedin.com/in/bryantan1/"
+                href="#"
                 aria-label="LinkedIn"
                 icon={<FaLinkedin fontSize="1.25rem" />}
             />
             <IconButton 
                 as="a" 
-                href="https://github.com/bryantanjw" 
+                href="#" 
                 aria-label="GitHub" 
                 icon={<FaGithub fontSize="1.25rem" />} 
             />
             <IconButton
                 as="a"
-                href="https://twitter.com/bryantanjw"
+                href="# "
                 aria-label="Twitter"
                 icon={<FaTwitter fontSize="1.25rem" />}
             />
